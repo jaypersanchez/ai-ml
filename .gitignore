@@ -1,0 +1,5 @@
+.env
+venv
+lstm_model.h5
+*.h5
+data-model/*.h5
